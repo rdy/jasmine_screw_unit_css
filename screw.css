@@ -22,6 +22,8 @@ body {
 
 .runner {
   border: 0;
+  margin: 0.6em;
+  padding: 0;
 }
 
 .runner.running {
@@ -44,8 +46,8 @@ body {
 .suite {
   background-color: #F4F2E4;
   border: 1px dashed #6E6E6E;
-  margin-left: 0.6em;
-  padding-left: 0.6em;
+  margin: 0.6em;
+  padding: 0.6em
 }
 
 .suite.passed, .suite.failed  {
