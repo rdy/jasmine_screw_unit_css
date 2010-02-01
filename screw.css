@@ -1,3 +1,7 @@
+a:focus {
+  outline: none;
+}
+
 html {
   padding: 0.5em;
   background: #EDEBD5;
