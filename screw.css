@@ -32,14 +32,14 @@ body {
 
 .runner span {
   display: block;
-  padding: 1em 0;
+  padding: 1em 0 0.5em;
+  font-weight: bold;
+  font-size: 1.2em;
+  line-height: 1.2em;
 }
 
 .runner span a {
   color: #000;
-  font-weight: bold;
-  font-size: 1.2em;
-  line-height: 1.2em;
   text-decoration: none;
 }
 
